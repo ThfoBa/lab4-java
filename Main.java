@@ -55,6 +55,7 @@ public class Main {
         	for(int i = 0; i < 3; i++){
             		arr[i].editnazvanie("Экономист", "Младший");
         	}
+
         	for(int i = 0; i < 3; i++){
             		arr[i].output();
             		System.out.println();
